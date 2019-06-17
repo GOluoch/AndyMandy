@@ -1,0 +1,23 @@
+/* our own cutom css */
+
+
+.btn-margin-right{
+    margin-right:18px;
+    }
+    
+.btn{
+    border-radius:0px;
+    }
+
+/* I will come and remove you. */
+.jumbotron{
+    margin-left: -20px;
+    margin-right:-20px;
+    margin-top:-20px;
+}
+.white-text{
+    color: #ffff;
+}
+.featured_image{
+    width:100%;
+  }
